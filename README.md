@@ -2,7 +2,7 @@
 
 An AI WhatsApp assistant for a real estate company. Ada answers questions, searches listings, sends photos and brochures, captures leads, books viewings, and hands over to a human team through Telegram.
 
-**43 nodes** - built with [n8n](https://n8n.io).
+**43 nodes** - built with [n8n](https://n8n.io),whatsapp, real-estate, ai-agent, chatbot, automation, gemini
 
 ## How it works
 
